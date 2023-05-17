@@ -1,0 +1,5 @@
+notebooks filter=lfs diff=lfs merge=lfs -text
+datasets filter=lfs diff=lfs merge=lfs -text
+datasets/data.csv filter=lfs diff=lfs merge=lfs -text
+datasets/data_processed.csv filter=lfs diff=lfs merge=lfs -text
+datasets/data_processed_selected.csv filter=lfs diff=lfs merge=lfs -text
